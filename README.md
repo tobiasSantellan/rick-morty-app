@@ -16,7 +16,8 @@ Bienvenido a la **Rick & Morty App**, una aplicación para gestionar usuarios y 
 - **React Router**: Manejo de rutas y navegación entre las diferentes páginas de la aplicación.
 - **JavaScript (ES6+)**: Para la lógica de la aplicación.
 - **LocalStorage**: Para almacenar los datos de los usuarios y personajes en el navegador.
-
+- - **Tailwind CSS**: Framework de utilidad-first para diseño de interfaces.
+- - **Axios**: Cliente HTTP basado en promesas para hacer solicitudes HTTP desde el navegador o Node.js.
 ## Instalación
 
 ### Clonar el repositorio
@@ -24,3 +25,5 @@ Bienvenido a la **Rick & Morty App**, una aplicación para gestionar usuarios y 
 ```bash
 git clone https://github.com/tobiasSantellan/rick-morty-app.git
 cd rick-morty-app
+npm install
+npm run dev
