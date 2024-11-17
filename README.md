@@ -1,6 +1,6 @@
 # Rick & Morty App
 
-Bienvenido a la **Rick & Morty App**, una aplicación para gestionar usuarios y mostrar personajes del universo de *Rick y Morty*. Los usuarios pueden registrarse, iniciar sesión, crear nuevos personajes y acceder a una lista de personajes. Esta aplicación utiliza almacenamiento local (LocalStorage) para almacenar la información de los usuarios y sus credenciales.
+Una aplicación para gestionar usuarios y mostrar personajes del universo de *Rick y Morty*. Los usuarios pueden registrarse, iniciar sesión, crear nuevos personajes y acceder a una lista de personajes. Esta aplicación utiliza almacenamiento local (LocalStorage) para almacenar la información de los usuarios y sus credenciales.
 
 ## Características
 
@@ -16,8 +16,8 @@ Bienvenido a la **Rick & Morty App**, una aplicación para gestionar usuarios y 
 - **React Router**: Manejo de rutas y navegación entre las diferentes páginas de la aplicación.
 - **JavaScript (ES6+)**: Para la lógica de la aplicación.
 - **LocalStorage**: Para almacenar los datos de los usuarios y personajes en el navegador.
-- - **Tailwind CSS**: Framework de utilidad-first para diseño de interfaces.
-- - **Axios**: Cliente HTTP basado en promesas para hacer solicitudes HTTP desde el navegador o Node.js.
+- **Tailwind CSS**: Framework de utilidad-first para diseño de interfaces.
+- **Axios**: Cliente HTTP basado en promesas para hacer solicitudes HTTP desde el navegador o Node.js.
 ## Instalación
 
 ### Clonar el repositorio
